@@ -1,3 +1,6 @@
+//Crear una matriz cuyas dimensiones sean ingresadas por el usuario. La matriz puede tener cualquier dimensiòn.
+//Inicializar toda la matriz en ceros.
+//Impriuma la matriz con la diagonal princpal con valores en 1.
 #include <stdio.h>
 int main(int argc, char const * argv[]){
     int n , m; 
